@@ -115,7 +115,7 @@ print_board(sudoku)
 solve(sudoku)
 
 # Display the solved board
-(print("\nHere's your solved sudoku board:"))
+(print("\nHere's your solved sudoku board:\n"))
 print_board(sudoku)
 
 (print("\nThis will be marked as my first ever coding individual project (as of January 7th, 2025) so I hope you enjoyed using it!\n"))
